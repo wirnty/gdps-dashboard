@@ -13,7 +13,7 @@ unset($_SESSION["login_error"]);
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>NeonCat Account Manager</title>
+    <title>Account Manager</title>
 </head>
 <body style="background:#b3b3b3; font-family: serif;">
 
@@ -33,9 +33,6 @@ unset($_SESSION["login_error"]);
 
             <p>Password:</p>
             <input type="password" name="password" required>
-
-            <p>UDID:</p>
-            <input type="text" name="udid" required>
 
             <br><br>
             <button type="submit">Login</button>
