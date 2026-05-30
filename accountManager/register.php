@@ -14,7 +14,7 @@ unset($_SESSION["register_error"], $_SESSION["register_success"]);
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Register - Geometry Dash Account Manager</title>
+    <title>Account Manager</title>
 </head>
 <body style="background:#b3b3b3; font-family: serif;">
 
